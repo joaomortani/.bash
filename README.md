@@ -1,0 +1,4 @@
+.bash
+=====
+
+my bash terminal
